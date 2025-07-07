@@ -1,7 +1,7 @@
 input: .
 output: .retype
 
-url: bnop-tools.github.io/transform2d-user-manual # GitHub Pages URL
+url: https://bnop-tools.github.io/transform2d-user-manual # GitHub Pages URL
 
 start:
   # Uncomment the next line to try Retype Pro features
@@ -13,7 +13,7 @@ branding:
 
 links:
   - text: Unity Asset Store
-    link: #  # Add your Unity Asset Store link here
+    link: https://assetstore.unity.com/packages/tools/utilities/transform-2d-position-size-width-height-pixels-align-spacing-gui-298680
   - text: GitHub Repository
     link: https://github.com/bnop-tools/transform2d-user-manual
 
