@@ -23,7 +23,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: retypeapp/action-build@latest
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Retype
+        run: npm install retypeapp --global
+
+      - name: Build Retype site
+        run: retype build
+
+      - name: Verify build output
+        run: ls -la .retype
 
       - uses: actions/configure-pages@v4
 
