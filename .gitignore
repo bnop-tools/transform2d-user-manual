@@ -1,0 +1,12 @@
+# Retype build output
+.retype/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

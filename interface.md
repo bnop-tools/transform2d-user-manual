@@ -1,0 +1,12 @@
+# Interface Overview
+Transform2D enhances your 2D workflow in Unity through several integrated features.
+
+## The Transform2D Panel
+![](/static/2.1.window.jpg)
+
+The Transform2D panel is the core interface for precise positioning, sizing, scaling, rotation, and alignment of GameObjects, featuring various input fields and controls.
+
+## Rulers and Guides in the Scene View
+![](/static/2.2.scene-view.jpg)
+
+Transform2D adds visual rulers and customizable guides to the Unity Scene view, assisting with precise visual alignment and layout

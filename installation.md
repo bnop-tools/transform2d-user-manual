@@ -1,0 +1,16 @@
+To integrate Transform2D in your Unity project:
+* Open your Unity project.
+* Access the Package Manager through the Window menu.
+* In the Package Manager's left pane, navigate to `My Assets`. You should find the `Transform2D` package listed there.
+* Add the package to your project.
+* The package will then appear in your project's `Assets` folder as `tools.bnop.transform2d`, where it must remain for the plugin to function.
+* Close the Package Manager.
+* Open the Transform2D panel by selecting `Tools → Transform2D → Open Transform2D` from the main menu. For optimal workflow, dock this panel into your preferred Unity layout.
+  
+![Tools Menu](/static/1.1.tools-menu.jpg)
+
+## Performance and default workflow implications
+Transform2D operates only at design time with a negligible performance footprint and will not affect runtime performance at all. It works alongside Unity's default Transform component without overriding it.
+
+## Deactivating Transform2D
+For any reason, you can temporarily disable all plugin operations without closing the panel by deselecting Tools → Transform2D → Enable Transform2D.
