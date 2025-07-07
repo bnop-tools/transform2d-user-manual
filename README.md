@@ -25,7 +25,18 @@ This documentation is built using [Retype](https://retype.com/), a modern static
 
 ### Deployment
 
-The documentation can be deployed to any static hosting service. The built files are generated in the `.retype` directory.
+The documentation is automatically deployed to GitHub Pages at: https://bnop-tools.github.io/transform2d-user-manual
+
+#### Automatic Deployment
+- Push changes to the `main` branch to trigger automatic deployment
+- GitHub Actions will build the Retype site and deploy it to GitHub Pages
+- Deployment typically takes 1-2 minutes
+
+#### Manual Deployment
+The documentation can also be deployed to any static hosting service. The built files are generated in the `.retype` directory when you run:
+```bash
+retype build
+```
 
 ## Contributing
 

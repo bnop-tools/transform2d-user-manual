@@ -1,7 +1,7 @@
 input: .
 output: .retype
 
-url: docs.example.com # Use your website address here
+url: bnop-tools.github.io/transform2d-user-manual # GitHub Pages URL
 
 start:
   # Uncomment the next line to try Retype Pro features
@@ -12,8 +12,10 @@ branding:
   label: Docs
 
 links:
-  - text: Getting Started
-    link: https://retype.com/guides/getting-started/
+  - text: Unity Asset Store
+    link: #  # Add your Unity Asset Store link here
+  - text: GitHub Repository
+    link: https://github.com/bnop-tools/transform2d-user-manual
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
