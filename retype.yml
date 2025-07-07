@@ -8,14 +8,21 @@ start:
   # pro: true
 
 branding:
-  title: Transform2D User Manual
-  label: Docs
+  title: Transform2D
+  label: Manual                 
 
 links:
-  - text: Unity Asset Store
+  - text: Unity Asset Store Page
     link: https://assetstore.unity.com/packages/tools/utilities/transform-2d-position-size-width-height-pixels-align-spacing-gui-298680
-  - text: GitHub Repository
-    link: https://github.com/bnop-tools/transform2d-user-manual
+    icon: package
+    target: blank
+  - text: Discord
+    link: https://discord.gg/TKvmCU9rxV
+    icon: comment-discussion
+    target: blank
+  - text: Contact
+    link: mailto:support@bnop.tools
+    icon: mail
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."

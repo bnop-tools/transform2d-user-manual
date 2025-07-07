@@ -1,5 +1,9 @@
 # Retype build output
 .retype/
+.retype-docs
+
+# Copilot instructions
+.copilot-instructions.md
 
 # macOS
 .DS_Store
