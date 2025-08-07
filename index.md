@@ -1,5 +1,6 @@
 ---
 icon: home
+Label: Welcome
 ---
 
 # Welcome to Transform2D ✨
