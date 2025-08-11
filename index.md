@@ -1,19 +1,24 @@
 ---
 icon: home
+Label: Welcome
 ---
 
-# Welcome to Transform2D ✨
+# 👋 Welcome 
+Thank you for choosing **Transform2D**!
 
-**Transform2D** is a powerful editor extension that augments Unity’s limited Transform interface with essential features commonly found in standard design software.
+## What is Transform2D?
+**Transform2D** is a powerful editor extension that augments Unity's limited Transform interface with essential features commonly found in design software used for 2D game development. It brings the familiar, intuitive workflow directly into Unity—saving time, freeing up brain cells, and making game object layout in 2D scenes natural and effortless.
 
 With Transform2D, you can:
 
-- **Position, resize, and rotate** objects from any anchor point.
-- Directly **set width/height** instead of calculating scale values.
-- Work with single objects or **groups**, using advanced **alignment** and **distribution** tools.
-- Switch between **local** and **global** space for all transformations.
-- Use **world units** or **pixels** for all transformations, and achieve pixel-perfect results.
-- Create and snap to **Guides** for structured, consistent layouts.
+- **Position, resize, and rotate** objects from any anchor point
+- Work with **game object bounds** based on sprites, colliders, cameras, or text
+- Directly **set width/height** instead of guessing scale values
+- Work with **groups** of objects to get combined bounds and transform as one
+- Use advanced **align and distribute** tools for game object bounds
+- Switch between **local and global space** for all transformations
+- Use **world units** or **pixels** for all transformations, achieve pixel-perfection
+- Create and snap to **Guides** for structured, consistent layouts
 
 ## Feedback and Support
 
